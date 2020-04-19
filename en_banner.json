@@ -1,9 +1,9 @@
 {
   "type": 3,
   "title": "",
-  "message": "The latest version is 1.3.7\nThanks for the translation provided by Tony\n1.Fixed an issue where \"Run by route \" was invalid;2. Fixed about error code -3 issue;",
+  "message": "The latest version is 1.3.7\nThanks for the translation provided by Tony\n1.Fixed an issue where \"Run by route \" was invalid;\n2. Fixed about error code -3 issue;",
   "confirmTitle": "Download",
   "cancelTitle": "Cancel",
   "version": "1.3.7",
-  "banner_id": 8
+  "banner_id": 9
 }
