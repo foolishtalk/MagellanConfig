@@ -1,9 +1,9 @@
 {
   "type": 3,
   "title": "",
-  "message": "The latest version is 1.3.8\nThanks for the translation provided by Tony\n1.\"Run by route\" will circle all the time;\n2.Fixed bug;",
+  "message": "The latest version is 1.3.9\nThanks for the translation provided by Tony\n1.Remove \"Run by route\" will automatically circle ;",
   "confirmTitle": "Download",
   "cancelTitle": "Cancel",
-  "version": "1.3.8",
-  "banner_id": 10
+  "version": "1.3.9",
+  "banner_id": 11
 }
