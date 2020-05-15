@@ -1,9 +1,9 @@
 {
   "type": 3,
   "title": "",
-  "message": "The latest version is 1.3.11\nThanks for the translation provided by Tony\n1.Fixed a bug that crashed when used too long;\n",
+  "message": "The latest version is 1.4.0\nThanks for the translation provided by Tony\n1.Support for discovering iphones with the same wifi as the Mac;(You should turn on 'Show this iPhone when on Wi-Fi' in Music App or iTunes App).\nYou should be know that is a testing feature,there could be bugs.\n",
   "confirmTitle": "Download",
   "cancelTitle": "Cancel",
-  "version": "1.3.11",
-  "banner_id": 13
+  "version": "1.4.0",
+  "banner_id": 14
 }

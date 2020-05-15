@@ -1,9 +1,9 @@
 {
   "type": 3,
   "title": "",
-  "message": "最新版本为 1.3.11\n1. 修复偶现崩溃的问题；",
+  "message": "最新版本为 1.4.0\n1. 支持发现和 Mac 同一个WiFi下的iPhone（你需要在音乐 App或iTunes App上打开\"接入Wi-Fi时显示此iPhone\"）；\n这是个测试阶段的功能，有可能会出现异常",
   "confirmTitle": "前往下载",
   "cancelTitle": "取消",
-  "version": "1.3.11",
+  "version": "1.4.0",
   "banner_id": 13
 }
