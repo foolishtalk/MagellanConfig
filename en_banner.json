@@ -1,9 +1,9 @@
 {
   "type": 3,
   "title": "",
-  "message": "The latest version is 1.4.0\nThanks for the translation provided by Tony\n1.Support for discovering iphones with the same wifi as the Mac;(You should turn on 'Show this iPhone when on Wi-Fi' in Music App or iTunes App).\nYou should be know that is a testing feature,there could be bugs.\n",
+  "message": "The latest version is 1.4.1\n1.Fixed an issue where a long-running App might crash;",
   "confirmTitle": "Download",
   "cancelTitle": "Cancel",
-  "version": "1.4.0",
+  "version": "1.4.1",
   "banner_id": 14
 }
