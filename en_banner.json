@@ -1,9 +1,9 @@
 {
   "type": 3,
   "title": "",
-  "message": "The latest version is 1.4.1\n1.Fixed an issue where a long-running App might crash;",
+  "message": "The latest version is 1.4.2\n1.Make driver installation easier；2.You can select \"App Store and identified developers\" in Security & Privacy,because Magellan has been notarized by Apple;",
   "confirmTitle": "Download",
   "cancelTitle": "Cancel",
-  "version": "1.4.1",
-  "banner_id": 14
+  "version": "1.4.2",
+  "banner_id": 16
 }
