@@ -1,9 +1,9 @@
 {
   "type": 3,
   "title": "",
-  "message": "最新版本为 1.4.1\n1. 修复长时间运行， App 可能会出现崩溃的问题；",
+  "message": "最新版本为 1.4.2\n1. 优化驱动安装流程；",
   "confirmTitle": "前往下载",
   "cancelTitle": "取消",
-  "version": "1.4.1",
-  "banner_id": 14
+  "version": "1.4.2",
+  "banner_id": 15
 }
