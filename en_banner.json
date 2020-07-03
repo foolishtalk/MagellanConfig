@@ -1,7 +1,7 @@
 {
   "type": 3,
   "title": "",
-  "message": "The latest version is 1.4.3\nIMPORTANT!!!\n1. Fixed a problem with Magellan crashing when fixing a fixed location exception;\n2.Make driver installation easier；\n 3.You can select \"App Store and identified developers\" in Security & Privacy,because Magellan has been notarized by Apple;",
+  "message": "The latest version is 1.4.3\nIMPORTANT!!!\n1. Fixed a problem with Magellan crashing when fixing a fixed location exception;\n2. Make driver installation easier；\n3. You can select \"App Store and identified developers\" in Security & Privacy,because Magellan has been notarized by Apple;",
   "confirmTitle": "Download",
   "cancelTitle": "Cancel",
   "version": "1.4.3",
