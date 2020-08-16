@@ -1,9 +1,9 @@
 {
   "type": 3,
   "title": "",
-  "message": "最新版本为 1.4.3 \n重要！！！\n1. 修复修改定位异常时 Magellan 崩溃的问题；\n 2. 优化驱动安装流程;",
+  "message": "最新版本为 1.4.4 \n \n1.修复 Magellan 崩溃的问题； ",
   "confirmTitle": "前往下载",
   "cancelTitle": "取消",
-  "version": "1.4.3",
-  "banner_id": 17
+  "version": "1.4.4",
+  "banner_id": 18
 }
