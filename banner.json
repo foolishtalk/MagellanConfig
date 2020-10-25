@@ -1,9 +1,9 @@
 {
   "type": 3,
   "title": "",
-  "message": "最新版本为 1.4.4 \n \n1.修复 Magellan 崩溃的问题； ",
+  "message": "最新版本为 1.4.5 \n \n1.修复 Magellan 锁屏后无法再次安装驱动的问题；\n2. 修复一些可能引起崩溃的问题； ",
   "confirmTitle": "前往下载",
   "cancelTitle": "取消",
-  "version": "1.4.4",
-  "banner_id": 18
+  "version": "1.4.5",
+  "banner_id": 19
 }
