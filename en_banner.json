@@ -1,9 +1,9 @@
 {
   "type": 3,
   "title": "",
-  "message": "The latest version is 1.4.5\n 1.Fixed an issue where drivers could not be reinstalled after iPhone lock screen;\n2. Fixed a problem with Magellan crashing exception;",
+  "message": "The latest version is 1.4.5\n 1.Fixed drive files sometimes can't saved correctly; \n2.Fixed an issue where drivers could not be reinstalled after iPhone lock screen;\n3. Fixed a problem with Magellan crashing exception;",
   "confirmTitle": "Download",
   "cancelTitle": "Cancel",
-  "version": "1.4.5",
-  "banner_id": 19
+  "version": "1.4.6",
+  "banner_id": 20
 }
