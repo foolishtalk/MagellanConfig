@@ -1,9 +1,9 @@
 {
-  "type": 3,
+  "type": 2,
   "title": "",
-  "message": "The latest version is 1.4.7\n 1.Updating the app has become more convenient;",
-  "confirmTitle": "Download",
+  "message": "Nothing",
+  "confirmTitle": "OK",
   "cancelTitle": "Cancel",
-  "version": "1.4.7",
-  "banner_id": 22
+  "version": "1.4.8",
+  "banner_id": 23
 }

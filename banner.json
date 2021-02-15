@@ -1,9 +1,9 @@
 {
-  "type": 3,
+  "type": 2,
   "title": "",
-  "message": "最新版本为 1.4.7 \n \n1.更新App变得更方便； ",
-  "confirmTitle": "前往下载",
+  "message": "又是风平浪静的一天～",
+  "confirmTitle": "确定",
   "cancelTitle": "取消",
-  "version": "1.4.7",
-  "banner_id": 22
+  "version": "1.4.8",
+  "banner_id": 23
 }
