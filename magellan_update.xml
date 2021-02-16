@@ -12,7 +12,7 @@
 			</sparkle:releaseNotesLink>
             <pubDate>周一, 15 2月 2021 22:30:40 +0800</pubDate>
             <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
-                        <enclosure url="https://www.foolishtalk.org/magellan/config/magellan.dmg" sparkle:version="33" sparkle:shortVersionString="1.4.8" length="11292473" type="application/octet-stream" sparkle:edSignature="jnakZZ8BL5FC6kmxf93kDJZioOzmaijS49K4d3T/BpAd3sbSXOPQkQ3mY8NT0UKVYov/AJpfEA+hy0wHFz2eDg=="/>
+            <enclosure url="https://www.foolishtalk.org/magellan/config/magellan.dmg" sparkle:version="33" sparkle:shortVersionString="1.4.9" length="11292504" type="application/octet-stream" sparkle:edSignature="sUGIHHsWik9HYzQjKPBdvm8w22qP+ORSn6g5gQFk9EfSlRJG8KVA/Y+7C4+pea7A9++moG5HwFd+bSiNAw3jBA=="/>
         </item>
     </channel>
 </rss>
