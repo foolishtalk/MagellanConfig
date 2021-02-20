@@ -1,8 +1,8 @@
 {
-  "type": 3,
+  "type": 1,
   "title": "",
-  "message": "Download the latest version",
-  "confirmTitle": "Download",
+  "message": "Nothing",
+  "confirmTitle": "OK",
   "cancelTitle": "Cancel",
   "version": "1.4.9",
   "banner_id": 23
