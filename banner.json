@@ -1,10 +1,9 @@
 {
-  "type": 2,
+  "type": 3,
   "title": "",
-  "message": "最新版本1.4.9",
+  "message": "下载最新版本",
   "confirmTitle": "前往下载",
   "cancelTitle": "取消",
   "version": "1.4.9",
-  "banner_id": 24,
-  "url":"https://www.foolishtalk.org/magellan/magellan.dmg"
+  "banner_id": 23
 }

@@ -1,10 +1,9 @@
 {
-  "type": 2,
+  "type": 3,
   "title": "",
-  "message": "The latest version is 1.4.9",
+  "message": "Download the latest version",
   "confirmTitle": "Download",
   "cancelTitle": "Cancel",
   "version": "1.4.9",
-  "banner_id": 23,
-  "url":"https://www.foolishtalk.org/magellan/magellan.dmg"
+  "banner_id": 23
 }
