@@ -9,10 +9,10 @@
             <sparkle:releaseNotesLink xml:lang="zh">
 			https://www.foolishtalk.org/magellan/config/release_note_zh.html
 			</sparkle:releaseNotesLink>
-            <title>1.4.10</title>
-            <pubDate>周六, 20 2月 2021 22:30:37 +0800</pubDate>
+            <title>1.4.11</title>
+            <pubDate>周二, 02 3月 2021 22:36:56 +0800</pubDate>
             <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
-            <enclosure url="https://www.foolishtalk.org/magellan/config/magellan.dmg" sparkle:version="35" sparkle:shortVersionString="1.4.10" length="11291643" type="application/octet-stream" sparkle:edSignature="3Ms9AQMDQPbv9PH6xgKFkZGjeDCU6b0Ln2057j6RuRwO+3yzCiui4RmE7Qo8+18KkStrPsjR4RQWMoSbgq5aCg=="/>
+            <enclosure url="https://www.foolishtalk.org/magellan/config/magellan.dmg" sparkle:version="36" sparkle:shortVersionString="1.4.11" length="10536006" type="application/octet-stream" sparkle:edSignature="R+Rw4B6TRZrmYcow5AJwv+R33V5hiJBgtVCcb6UH8L3ckNZUxUGIZBMAmELA49cXJGcud8wP33SWsPY9prOrCw=="/>
         </item>
     </channel>
 </rss>
