@@ -2,18 +2,17 @@
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
         <title>Magellan</title>
-        <item>            
+        <item>
             <sparkle:releaseNotesLink xml:lang="en">
 			https://www.foolishtalk.org/magellan/config/release_note_en.html
 			</sparkle:releaseNotesLink>
             <sparkle:releaseNotesLink xml:lang="zh">
 			https://www.foolishtalk.org/magellan/config/release_note_zh.html
 			</sparkle:releaseNotesLink>
-            <title>1.4.12</title>
-            <pubDate>周二, 18 5月 2021 23:39:21 +0800</pubDate>
+            <title>1.4.13</title>
+            <pubDate>周五, 04 6月 2021 10:37:20 +0800</pubDate>
             <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
-            <enclosure url="https://www.foolishtalk.org/magellan/config/magellan.dmg" sparkle:version="38" sparkle:shortVersionString="1.4.12" length="10511475" type="application/octet-stream" sparkle:edSignature="9Jl6Z5epVq6x0V3I1jk6k7RVOqAVdLl+93ePOpvbjZh4oXEwti4mJ/BBNCkOakGFavxMQjXSZEewwSqH0FIcDQ=="/>
-            
+            <enclosure url="https://www.foolishtalk.org/magellan/config/magellan.dmg" sparkle:version="39" sparkle:shortVersionString="1.4.13" length="10511132" type="application/octet-stream" sparkle:edSignature="0yJ3LJTi3fO/Miqvu9BcFPGvrk9CfNAyqqd/6pWLmBANGH7wfxFGoaQyJNir2mB7/A43UfYzTnr3GvgwYnGaDA=="/>
         </item>
     </channel>
 </rss>
