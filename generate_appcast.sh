@@ -1,2 +1,2 @@
 #!/bin/sh
-../MacDeviceControl/Pods/Sparkle/bin/generate_appcast ./
+../Magellan/Pods/Sparkle/bin/generate_appcast ./
