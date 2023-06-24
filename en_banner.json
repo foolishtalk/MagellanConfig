@@ -1,9 +1,9 @@
 {
-  "type": 1,
+  "type": 3,
   "title": "",
-  "message": "Nothing",
+  "message": "iOS 17 Apple modified the driver protocol, temporarily does not support the installation of the driver, please do not upgrade",
   "confirmTitle": "OK",
   "cancelTitle": "Cancel",
-  "version": "1.4.9",
-  "banner_id": 23
+  "version": "2.0.16",
+  "banner_id": 24
 }
