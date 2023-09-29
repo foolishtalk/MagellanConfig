@@ -10,12 +10,6 @@
             https://www.foolishtalk.org/magellan/config/release_note_zh.html
             </sparkle:releaseNotesLink>
             <title>2.2.6</title>
-            <pubDate>Thu, 28 Sep 2023 19:27:48 +0800</pubDate>
-            <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
-            <enclosure url="https://www.foolishtalk.org/magellan/config/magellan.dmg" sparkle:version="79" sparkle:shortVersionString="2.2.6" length="36184882" type="application/octet-stream" sparkle:edSignature="28d22YLyptbF7u0wBrINR4tqu+IimhrHU2SdulijyQmDVwD7tcpjngIGxMdQ8YQxRGirNcCxemOjPeqOWHj8BQ=="/>
-        </item>
-        <item>
-            <title>2.2.6</title>
             <pubDate>Fri, 29 Sep 2023 14:06:27 +0800</pubDate>
             <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
             <enclosure url="https://www.foolishtalk.org/magellan/config/magellan.dmg" sparkle:version="80" sparkle:shortVersionString="2.2.6" length="36349627" type="application/octet-stream" sparkle:edSignature="qNsqCG91k01iDJbirW892m0zFoJf2NSaoqwnh1k9T/F0KM4nehcaoMcLT2Z5XhJeyYSoPLr0UbLiQoVObJChDA=="/>
