@@ -1,9 +1,9 @@
 {
-  "type": 5,
+  "type": 3,
   "title": "",
-  "message": "iOS 17苹果修改了驱动协议，暂时还不支持安装驱动，请勿升级",
-  "confirmTitle": "确定",
+  "message": "iOS 17已支持，下载最新版本",
+  "confirmTitle": "前往下载",
   "cancelTitle": "取消",
-  "version": "2.0.16",
-  "banner_id": 26
+  "version": "2.2.16",
+  "banner_id": 27
 }
