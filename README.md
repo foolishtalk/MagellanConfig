@@ -24,3 +24,16 @@
   "banner_id": 17
 }
 ```
+
+# mocklocation.json配置
+
+
+```
+{
+  "version": "3.14",
+  "launch_id": 51,
+  "magellan_version": "2.3.0",// 当前Magellan最新版本，如果不填，虚拟定位不会提示更新Magellan
+  "magellan_release_note_en": "",// Magellan更新提示的文案 英文版
+  "magellan_release_note_zh": ""// Magellan更新提示的文案 中文版
+}
+```

@@ -1,1 +1,7 @@
-{"version":"3.14","launch_id":50}
+{
+  "version": "3.14",
+  "launch_id": 51,
+  "magellan_version": "2.3.0",
+  "magellan_release_note_en": "IMPORTANT UPDATE:\niOS 17 support is only available with this update!",
+  "magellan_release_note_zh": "重要更新：\n只有更新后才能支持iOS 17"
+}
