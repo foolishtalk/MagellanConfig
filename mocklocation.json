@@ -1,7 +1,7 @@
 {
-  "version": "3.14",
-  "launch_id": 51,
+  "version": "3.15",
+  "launch_id": 52,
   "magellan_version": "2.3.0",
-  "magellan_release_note_en": "IMPORTANT UPDATE:\niOS 17 support is only available with this update!",
-  "magellan_release_note_zh": "重要更新：\n只有更新后才能支持iOS 17"
+  "magellan_release_note_en": "IMPORTANT UPDATE:\nRequires Magellan version 3.1.0 or higher to support iOS 17!",
+  "magellan_release_note_zh": "重要更新：\n需要下载Magellan 3.1.0版本以上才能支持iOS 17"
 }
