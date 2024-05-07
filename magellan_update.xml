@@ -9,12 +9,12 @@
             <sparkle:releaseNotesLink xml:lang="zh">
             https://www.foolishtalk.org/magellan/config/release_note_zh.html
             </sparkle:releaseNotesLink>
-            <title>2.5.2</title>
-            <pubDate>Tue, 07 May 2024 01:16:28 +0800</pubDate>
-            <sparkle:version>142</sparkle:version>
-            <sparkle:shortVersionString>2.5.2</sparkle:shortVersionString>
+            <title>2.5.3</title>
+            <pubDate>Tue, 07 May 2024 21:37:31 +0800</pubDate>
+            <sparkle:version>143</sparkle:version>
+            <sparkle:shortVersionString>2.5.3</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
-            <enclosure url="https://www.foolishtalk.org/magellan/config/magellan.dmg" length="33319429" type="application/octet-stream" sparkle:edSignature="2E9f4RSsUzqraC9n0lNDMy3A3kvWeBNFWeW2IjDxdtXD2Oq/h2rc1VPFZ/WNLmw9mQC5MgiJMpywKteDdVxvDg=="/>
+            <enclosure url="https://www.foolishtalk.org/magellan/config/magellan.dmg" length="33319438" type="application/octet-stream" sparkle:edSignature="i31mFcXb0sBPvVZ6SUOw1RIQRNAalsCGctfYjhLjONJFaGJTM5rGMiqkBCz1MSv6/3yoTMmYmIJOJCfiuGRlBw=="/>
         </item>
     </channel>
 </rss>
