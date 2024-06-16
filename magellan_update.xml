@@ -3,6 +3,14 @@
     <channel>
         <title>Magellan</title>
         <item>
+            <title>2.5.6</title>
+            <pubDate>Sun, 16 Jun 2024 15:27:47 +0800</pubDate>
+            <sparkle:version>146</sparkle:version>
+            <sparkle:shortVersionString>2.5.6</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
+            <enclosure url="https://www.foolishtalk.org/magellan/config/magellan.dmg" length="36753985" type="application/octet-stream" sparkle:edSignature="G6C3UbMoYuTiE6E5UoJyIGEI7meHR2QfSwmh2aBedVzKovGddVFO6NnaEM3IOVl96xdBolvmA//4UloXPWeHAg=="/>
+        </item>
+        <item>
             <sparkle:releaseNotesLink xml:lang="en">
             https://www.foolishtalk.org/magellan/config/release_note_en.html
             </sparkle:releaseNotesLink>
