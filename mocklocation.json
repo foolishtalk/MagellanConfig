@@ -1,5 +1,5 @@
 {
-  "version": "3.30",
+  "version": "3.31",
   "launch_id": 68,
   "magellan_version": "2.6.0",
   "magellan_release_note_en": "IMPORTANT UPDATE:\nFixed a crash when launching on macOS 26.",
