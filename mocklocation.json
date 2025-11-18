@@ -1,6 +1,6 @@
 {
-  "version": "3.32",
-  "launch_id": 69,
+  "version": "3.33",
+  "launch_id": 70,
   "magellan_version": "2.6.0",
   "magellan_release_note_en": "IMPORTANT UPDATE:\nFixed a crash when launching on macOS 26.",
   "magellan_release_note_zh": "重要更新：\n修复macOS 26上启动崩溃的问题。"
